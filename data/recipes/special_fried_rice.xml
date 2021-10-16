@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Special Fried Rice</name>
+  <serves>4</serves>
+  <prepTime>PT0H15M</prepTime>
+  <cookTime>PT0H30M</cookTime>
+  <nutrition>
+    <kilocalories>369.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>14.80</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>3.20</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>82.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>849.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>49.80</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>1.90</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>1.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>10.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>8.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>52.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>4.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>276.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Long Grain Rice</name>
+      <notes></notes>
+      <quantity>200.0</quantity>
+      <unit>g</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Water</name>
+      <notes>Boiling</notes>
+      <quantity>400.0</quantity>
+      <unit>mL</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Salt</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Vegetable Oil</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Spring Onions</name>
+      <notes>Finely Chopped</notes>
+      <quantity>3.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Ginger</name>
+      <notes>Fresh, peeled and grated</notes>
+      <quantity>2.0</quantity>
+      <unit>tbsp</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Garlic</name>
+      <notes>Peeled and crushed</notes>
+      <quantity>2.0</quantity>
+      <unit>cloves</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Cashew Nuts</name>
+      <notes></notes>
+      <quantity>75.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Eggs</name>
+      <notes>Large and beaten</notes>
+      <quantity>2.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Soy Sauce</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>True</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Place the rice into a large saucepan. Add the boiling water and salt, bring to the boil, cover and cook for the time stated on the packet. Drain well once cooked.</step>
+    <step>While the rice is cooking, place the oil into a wok or a large saucepan and heat it over a high heat until it is very hot. Add the spring onions, ginger, garlic, chilli and peas and cook for a minute. Then add the sugar snap peas, if you're using them and the cashew nuts.</step>
+    <step>Add the drained cooked rice and then pour over the beaten eggs.</step>
+    <step>Stir the rice vigorously to distribute the egg evenly and allow it to scramble. Cook for a further 3 minutes to ensure the rice is hot enough before serving, drizzled with soy sauce.</step>
+  </instructions>
+</recipe>

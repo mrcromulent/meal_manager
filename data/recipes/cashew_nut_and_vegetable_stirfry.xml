@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Cashew Nut and Vegetable Stirfry</name>
+  <serves>4</serves>
+  <prepTime>PT0H30M</prepTime>
+  <cookTime>PT0H30M</cookTime>
+  <nutrition>
+    <kilocalories>386.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>16.50</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>2.70</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>0.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>259.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>53.10</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>3.70</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>5.50</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>8.20</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>0.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>64.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>4.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>447.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Sesame Seeds</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>tsp</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Sunflower</name>
+      <notes>Or vegetable Oil</notes>
+      <quantity>1.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Vegetables</name>
+      <notes>Peppers, Carrots, Onions and broccoli</notes>
+      <quantity>400.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Cashew Nuts</name>
+      <notes></notes>
+      <quantity>75.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Spring Onions</name>
+      <notes>Finely Chopped</notes>
+      <quantity>2.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Garlic</name>
+      <notes>Peeled and crushed</notes>
+      <quantity>1.0</quantity>
+      <unit>clove</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Soy Sauce</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Sesame Oil</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Rice</name>
+      <notes>Or Noodles, to serve</notes>
+      <quantity>1.0</quantity>
+      <unit>Unit</unit>
+      <staple>False</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Toast the sesame seeds by placing them in a dry frying pan over a medium heat and cooking for a couple of minutes until you can smell their aroma. Remove from the heat immediately. tip into a bowl and set aside.</step>
+    <step>Heat the oil in a wok or large frying pan over a high heat until it is very hot. Add the vegetables and cashew nuts and stir-fry for around 2 minutes until they have started to soften and wilt a little.</step>
+    <step>Now, add the spring onion, garlic and chill and stir-fry for just a coupte of minutes until they are cooked.</step>
+    <step>Pour over the soy sauce and sesame oil and stir well. Serve immediately with the toasted sesame seeds sprinkled on top and a little extra soy sauce and sesame oil drizzled over. Accompany with rice or noodles.</step>
+  </instructions>
+</recipe>

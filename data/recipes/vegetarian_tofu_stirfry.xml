@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Vegetarian Tofu Stirfry</name>
+  <serves>4</serves>
+  <prepTime>PT0H15M</prepTime>
+  <cookTime>PT0H45M</cookTime>
+  <nutrition>
+    <kilocalories>211.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>10.40</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>1.80</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>0.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>594.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>23.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>4.30</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>7.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>10.30</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>0.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>156.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>4.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>534.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Vegetable Oil</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Sesame Oil</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Tofu</name>
+      <notes>Cut into 1 cm cubes</notes>
+      <quantity>250.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Baby Corn</name>
+      <notes></notes>
+      <quantity>150.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Snow Peas</name>
+      <notes></notes>
+      <quantity>150.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Broccoli heads</name>
+      <notes>Or bok choy</notes>
+      <quantity>150.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Red Capsicum</name>
+      <notes>Cored, deseeded and finely sliced</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Carrots</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Soy Sauce</name>
+      <notes></notes>
+      <quantity>2.5</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Lemon</name>
+      <notes>Juiced</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Ginger</name>
+      <notes>Peeled and grated</notes>
+      <quantity>1.0</quantity>
+      <unit>tsp</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Sweet Chlli Sauce</name>
+      <notes></notes>
+      <quantity>3.0</quantity>
+      <unit>tbsp</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Bean Sprouts</name>
+      <notes></notes>
+      <quantity>75.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>In a large nonstick frying pan or wok, heat the vegetable oil and sesame oil until hot Add the totu and fry, turning frequently, until lightly golden. Remove using a slotted spoon and drain on kitchen paper.</step>
+    <step>To the remaining oil add all of the vegetables except the bean sprouts and stir-fry, stirring continuously, for 3-4 minutes or until vibrant in colout Add the soy sauce, lemon juice, ginger and sweet chill sauce and mix to combine. Cook for a further 2-3 minutes or until the vegetables are almost cooked but still have a slight bite. Return the tofu to the pan with the bean sprouts and coriander and mix to combine.</step>
+    <step>Serve immediately with extra coriander sprinkled on top if liked.</step>
+  </instructions>
+</recipe>

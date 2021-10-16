@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Perfect Summer Fruit Salad</name>
+  <serves>10</serves>
+  <prepTime>PT0H25M</prepTime>
+  <cookTime>PT0H5M</cookTime>
+  <nutrition>
+    <kilocalories>155.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>0.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>0.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>0.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>5.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>39.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>4.50</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>29.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>1.80</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>0.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>45.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>1.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>451.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Orange Juice</name>
+      <notes></notes>
+      <quantity>0.66</quantity>
+      <unit>cups</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Lemon Juice</name>
+      <notes></notes>
+      <quantity>0.33</quantity>
+      <unit>cups</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Brown Sugar</name>
+      <notes></notes>
+      <quantity>0.33</quantity>
+      <unit>cups</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Orange Zest</name>
+      <notes></notes>
+      <quantity>0.5</quantity>
+      <unit>tsp</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Vanilla Extract</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>tsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Pineapple</name>
+      <notes></notes>
+      <quantity>2.0</quantity>
+      <unit>cups</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Strawberries</name>
+      <notes>Hulled and Sliced</notes>
+      <quantity>2.0</quantity>
+      <unit>cups</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Kiwi Fuit</name>
+      <notes>Peeled and sliced</notes>
+      <quantity>3.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Bananas</name>
+      <notes></notes>
+      <quantity>3.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Oranges</name>
+      <notes>Peeled and sectioned</notes>
+      <quantity>2.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Seedless Grapes</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>cups</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Blueberries</name>
+      <notes></notes>
+      <quantity>2.0</quantity>
+      <unit>cups</unit>
+      <staple>False</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Bring orange juice, lemon juice, brown sugar, orange zest, and lemon zest to a boil in a saucepan over medium-high heat. Reduce heat to medium-low, and simmer until slightly thickened, about 5 minutes. Remove from heat, and stir in vanilla extract. Set aside to cool.</step>
+    <step>Layer the fruit in a large, clear glass bowl in this order: pineapple, strawberries, kiwi fruit, bananas, oranges, grapes, and blueberries. Pour the cooled sauce over the fruit. Cover and refrigerate for 3 to 4 hours before serving.</step>
+  </instructions>
+</recipe>

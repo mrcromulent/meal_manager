@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Chunky Vegetable Soup</name>
+  <serves>4</serves>
+  <prepTime>PT0H20M</prepTime>
+  <cookTime>PT0H20M</cookTime>
+  <nutrition>
+    <kilocalories>232.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>10.10</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>6.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>24.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>1827.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>32.80</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>6.20</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>14.40</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>6.70</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>6.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>100.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>2.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>995.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Butter</name>
+      <notes></notes>
+      <quantity>45.0</quantity>
+      <unit>g</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Leek</name>
+      <notes>Sliced</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Plain Flour</name>
+      <notes></notes>
+      <quantity>0.25</quantity>
+      <unit>cups</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Water</name>
+      <notes></notes>
+      <quantity>5.0</quantity>
+      <unit>cups</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Vegetable Stock</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>cube</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Broccoli</name>
+      <notes>Chopped</notes>
+      <quantity>350.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Carrots</name>
+      <notes>Chopped</notes>
+      <quantity>2.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Zucchini</name>
+      <notes>Chopped</notes>
+      <quantity>4.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Red Pepper</name>
+      <notes>Chopped</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Melt butter in a large saucepan, add leek, stir over medium heat for about 5 minutes or until leek is soft.</step>
+    <step>Stir in flour, stir over medium heat for 1 minute.</step>
+    <step>Stir in water and stock cube, stir over high heat until mixture boils and thickens.</step>
+    <step>Add vegetables, cover, simmer for about 10 minutes or until vegetables are just tender.</step>
+  </instructions>
+</recipe>

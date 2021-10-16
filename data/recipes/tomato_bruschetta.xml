@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Tomato Bruschetta</name>
+  <serves>1</serves>
+  <prepTime>PT0H5M</prepTime>
+  <cookTime>PT0H5M</cookTime>
+  <nutrition>
+    <kilocalories>381.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>29.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>4.30</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>0.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>147.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>29.20</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>6.40</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>13.80</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>5.90</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>0.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>82.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>2.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>1196.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Cherry Tomatoes</name>
+      <notes></notes>
+      <quantity>4.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Olive Oil</name>
+      <notes></notes>
+      <quantity>2.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Bread</name>
+      <notes></notes>
+      <quantity>2.0</quantity>
+      <unit>slices</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Garlic</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>cloves</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Salt and pepper</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>True</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Chop up the cherry tomatoes into small pieces. Place into a bowl, drizzle over a teaspoon of olive oil and season with salt and pepper. Mix well.</step>
+    <step>Toast the slices of bread. Once they are golden brown, take the clove of garlic and rub it over one side of each stice of bread.</step>
+    <step>Drizzle the remaining olive oil over the bread.</step>
+    <step>Now, spoon the tomatoes on top of the toast. Top with fresh basil leaves if you are using them and dive in immediately.</step>
+  </instructions>
+</recipe>

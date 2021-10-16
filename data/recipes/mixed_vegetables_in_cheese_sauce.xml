@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Mixed Vegetables in Cheese Sauce</name>
+  <serves>6</serves>
+  <prepTime>PT0H10M</prepTime>
+  <cookTime>PT0H15M</cookTime>
+  <nutrition>
+    <kilocalories>335.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>20.70</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>13.10</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>62.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>320.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>19.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>5.10</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>2.90</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>15.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>12.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>464.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>1.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>63.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Frozen Vegetable Mix</name>
+      <notes>Corn, Beans and Pumpkin</notes>
+      <quantity>600.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Frozen Cauliflower and Broccoli Mix</name>
+      <notes></notes>
+      <quantity>600.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Butter</name>
+      <notes></notes>
+      <quantity>60.0</quantity>
+      <unit>g</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Plain Flour</name>
+      <notes></notes>
+      <quantity>0.25</quantity>
+      <unit>cups</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Milk</name>
+      <notes></notes>
+      <quantity>2.0</quantity>
+      <unit>cups</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Cheese</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>cup</unit>
+      <staple>False</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Cook vegetables according to packet directions. Drain.</step>
+    <step>Preheat grill on medium-high. Meanwhile, melt butter in a saucepan over medium heat. Stir in flour. Cook, stirring, for 2 minutes or until bubbling. Remove from heat. Gradually stir in milk. Return to heat. Cook, stirring, for 5 minutes or until mixture boils and thickens slightly. Remove from heat. Stir in cheese. Season with salt and pepper.</step>
+    <step>Combine vegetables in a lightly greased, 9cm-deep, 8 cup-capacity flame-proof dish. Pour over cheese sauce. Grill for 5 minutes or until browned. Serve.</step>
+  </instructions>
+</recipe>

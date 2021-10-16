@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Butternut squash soup with chilli and creme fraiche</name>
+  <serves>4</serves>
+  <prepTime>PT0H15M</prepTime>
+  <cookTime>PT0H50M</cookTime>
+  <ingredients>
+    <ingredient>
+      <name>Butternut Squash</name>
+      <notes>Peeled and deseeded</notes>
+      <quantity>1.0</quantity>
+      <unit>kg</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Olive Oil</name>
+      <notes></notes>
+      <quantity>2.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Butter</name>
+      <notes></notes>
+      <quantity>1</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Onions</name>
+      <notes>Diced</notes>
+      <quantity>2.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Garlic</name>
+      <notes>Thinly sliced</notes>
+      <quantity>1.0</quantity>
+      <unit>clove</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Red Chillies</name>
+      <notes>Deseeded and thinly sliced</notes>
+      <quantity>2.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Creme Fraiche</name>
+      <notes>Plus more to serve</notes>
+      <quantity>4.0</quantity>
+      <unit>tbsp</unit>
+      <staple>False</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Heat oven to 200C/180C fan/gas 6. Cut the squash into large cubes, about 4cm across, then toss in a large roasting tin with half the olive oil. Roast for 30 mins, turning once during cooking, until golden and soft.</step>
+    <step>While the squash cooks, melt the butter with the remaining oil in a large saucepan, then add the onions, garlic and 3/4 of the chilli. Cover and cook on a very low heat for 15-20 mins until the onions are completely soft.</step>
+    <step>Tip the squash into the pan, add the stock and the creme fraiche, then whizz with a stick blender until smooth. For a really silky soup, put the soup into a liquidiser and blitz it in batches. Return to the pan, gently reheat, then season to taste. Serve the soup in bowls with swirls of creme fraiche and a scattering of the remaining chopped chilli.</step>
+  </instructions>
+</recipe>

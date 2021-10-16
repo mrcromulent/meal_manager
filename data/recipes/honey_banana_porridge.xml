@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Honey Banana Porridge</name>
+  <serves>1</serves>
+  <prepTime>PT0H5M</prepTime>
+  <cookTime>PT0H5M</cookTime>
+  <nutrition>
+    <kilocalories>330.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>5.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>2.10</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>11.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>65.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>62.90</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>6.50</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>25.70</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>10.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>1.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>180.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>2.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>544.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Porridge Oats</name>
+      <notes>Or Oatmeal</notes>
+      <quantity>1.0</quantity>
+      <unit>cup</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Milk</name>
+      <notes></notes>
+      <quantity>250.0</quantity>
+      <unit>mL</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Banana</name>
+      <notes>Ripe and mashed</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Honey</name>
+      <notes>or dark brown sugar</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Chilled Milk</name>
+      <notes>Optional</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Banana</name>
+      <notes>Sliced, or other fresh fruit</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>For the stovetop method, put the oats and milk in a saucepan and bring to the boil. Lower the heat and simmer, stirring often for 2-3 minutes. Add the mashed banana and simmer for 1-2 minutes more, stirring often.</step>
+    <step>For the microwave method, combine the oats and milk in a glass bowl and microwave on high for 1 1/2 minutes. Remove, stir in the banana and microwave for 1 minute.</step>
+    <step>Transfer to a serving bowl, sprinkle with cinnamon, if using, and top with a spoonful or so of honey or sugar. Serve immediately, with extra milk if liked and sliced bananas or any other fresh or dried fruit.</step>
+  </instructions>
+</recipe>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="ingredient">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="name" 	type="xs:string"/>
+<xs:element name="notes" 	type="xs:string"/>
+<xs:element name="quantity" type="xs:float"/>
+<xs:element name="unit" 	type="xs:string"/>
+<xs:element name="staple" 	type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="nutrient">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="name">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:enumeration value="Total Fat" />
+<xs:enumeration value="Saturated Fat" />
+<xs:enumeration value="Cholesterol" />
+<xs:enumeration value="Sodium" />
+<xs:enumeration value="Total Carbohydrates" />
+<xs:enumeration value="Dietary Fibre" />
+<xs:enumeration value="Total Sugars"  />
+<xs:enumeration value="Protein" />
+<xs:enumeration value="Vitamin D" />
+<xs:enumeration value="Calcium" />
+<xs:enumeration value="Iron" />
+<xs:enumeration value="Potassium" />
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="quantity" type="xs:float"/>
+<xs:element name="unit">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:enumeration value="g" />
+<xs:enumeration value="mg" />
+<xs:enumeration value="mcg" />
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="ingredients">
+<xs:complexType>
+<xs:sequence>
+<xs:element ref="ingredient" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="instructions">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="step" type="xs:string" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="nutrition">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="kilocalories" 		type="xs:float" minOccurs="0"/>
+<xs:element ref="nutrient" 								minOccurs="0" maxOccurs="12"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="recipe">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="name" 		type="xs:string"/>
+<xs:element name="serves" 		type="xs:positiveInteger" 	minOccurs="0"/>
+<xs:element name="prepTime" 	type="xs:duration" 			minOccurs="0"/>
+<xs:element name="cookTime" 	type="xs:duration" 			minOccurs="0"/>
+<xs:element ref="nutrition" 								minOccurs="0"/>
+<xs:element ref="ingredients" 								minOccurs="1"/>
+<xs:element ref="instructions" 								minOccurs="1"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+</xs:schema>

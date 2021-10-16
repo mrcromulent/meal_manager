@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Perfect Roast Potatoes</name>
+  <serves>4</serves>
+  <prepTime>PT0H20M</prepTime>
+  <cookTime>PT0H50M</cookTime>
+  <nutrition>
+    <kilocalories>314.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>10.80</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>1.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>0.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>20.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>51.10</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>7.80</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>3.70</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>5.50</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>0.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>29.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>2.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>1323.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Potatoes</name>
+      <notes>Floury, peeled into and cut into even sized chunks</notes>
+      <quantity>1.3</quantity>
+      <unit>kg</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Olive Oil</name>
+      <notes></notes>
+      <quantity>3.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Salt</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>True</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Preheat the oven to 220 C/ Gas Mark 7.</step>
+    <step>Cook the potatoes in a large saucepan of lightly saled boiling water over a medium heat, covered for 5-7 minutes. They will still be firm. Remove from the heat. Meanwhile, add the fat to a roasting tin and place in a preheated oven.</step>
+    <step>Drain the potatoes well and return them to the saucepan. Cover and firmly shake the pan so that the surface of the potatoes is slightly roughened.</step>
+    <step>Remove the roasting tin from the oven and carefully tip the potatoes into the hot oil. Baste them to ensure that they are all coated with it.</step>
+    <step>Roast the potatoes at the top of the oven for 45-50 minutes, turning once, until they are browned all over. Using a slotted spoon, carefully transfer the potatoes to a serving dish and sprinkle with salt before serving.</step>
+  </instructions>
+</recipe>

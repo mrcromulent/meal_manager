@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Roasted Moroccan Style Vegetables</name>
+  <serves>6</serves>
+  <prepTime>PT0H15M</prepTime>
+  <cookTime>PT0H55M</cookTime>
+  <nutrition>
+    <kilocalories>190.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>12.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>1.50</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>0.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>680.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>22.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>6.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>9.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>2.00</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>0.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>0.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>0.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>0.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Nonstick cooking spray</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Extra Virgin Olive Oil</name>
+      <notes></notes>
+      <quantity>5.0</quantity>
+      <unit>tbsp</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Lemon Juice</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>tbsp</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Garlic</name>
+      <notes>Minced</notes>
+      <quantity>2.0</quantity>
+      <unit>cloves</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Kosher Salt</name>
+      <notes></notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Coriander</name>
+      <notes>Ground</notes>
+      <quantity>1.0</quantity>
+      <unit>tsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Cinnamon</name>
+      <notes>Ground</notes>
+      <quantity>0.5</quantity>
+      <unit>tsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Cumin</name>
+      <notes>Ground</notes>
+      <quantity>0.25</quantity>
+      <unit>tsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Ginger</name>
+      <notes>Ground</notes>
+      <quantity>0.25</quantity>
+      <unit>tsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Onion</name>
+      <notes>Diced</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Eggplant</name>
+      <notes>Medium-sized unpeeled and cut into 1/2 inch cubes</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Sweet Potato</name>
+      <notes>Medium Sized, unpeeled and cut into 1/2 inch cubes</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Grape Tomatoes</name>
+      <notes>Halved</notes>
+      <quantity>1.0</quantity>
+      <unit>cups</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Apricots</name>
+      <notes>Dried</notes>
+      <quantity>8.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Cilantro leaves</name>
+      <notes>Freshly chopped</notes>
+      <quantity>0.5</quantity>
+      <unit>cups</unit>
+      <staple>False</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Preheat the oven to 400 degrees F. Spray two rimmed baking sheets with nonstick cooking spray.</step>
+    <step>Whisk together the oil, lemon juice, garlic, salt, coriander, cinnamon, cumin and ginger in a large bowl. Add the onions, eggplant, sweet potatoes and tomatoes and toss well to fully coat the vegetables. Divide among the prepared baking sheets and arrange in a single layer. Roast until the sweet potatoes and eggplant are lightly browned and fully softened, 50 to 55 minutes, rotating trays and switching from top to bottom halfway through.</step>
+    <step>Transfer the vegetables to a large bowl. Toss with the apricots, cilantro and remaining 2 tablespoons of oil. Season to taste with salt.</step>
+  </instructions>
+</recipe>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Vegetable Chow Mein</name>
+  <serves>4</serves>
+  <prepTime>PT0H5M</prepTime>
+  <cookTime>PT0H20M</cookTime>
+  <nutrition>
+    <kilocalories>204.00</kilocalories>
+    <nutrient>
+      <name>Total Fat</name>
+      <quantity>10.50</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Saturated Fat</name>
+      <quantity>1.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Cholesterol</name>
+      <quantity>18.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Sodium</name>
+      <quantity>1032.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Carbohydrates</name>
+      <quantity>23.20</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Dietary Fibre</name>
+      <quantity>2.60</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Total Sugars</name>
+      <quantity>3.80</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Protein</name>
+      <quantity>6.20</quantity>
+      <unit>g</unit>
+    </nutrient>
+    <nutrient>
+      <name>Vitamin D</name>
+      <quantity>0.00</quantity>
+      <unit>mcg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Calcium</name>
+      <quantity>74.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Iron</name>
+      <quantity>2.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+    <nutrient>
+      <name>Potassium</name>
+      <quantity>227.00</quantity>
+      <unit>mg</unit>
+    </nutrient>
+  </nutrition>
+  <ingredients>
+    <ingredient>
+      <name>Egg Noodles</name>
+      <notes>Dried</notes>
+      <quantity>250.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Sesame Oil</name>
+      <notes></notes>
+      <quantity>2.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Spring Onions</name>
+      <notes>Finely Sliced</notes>
+      <quantity>4.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Red Pepper</name>
+      <notes>Deseeded and finely sliced</notes>
+      <quantity>1.0</quantity>
+      <unit>Units</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Beansprouts</name>
+      <notes></notes>
+      <quantity>200.0</quantity>
+      <unit>g</unit>
+      <staple>False</staple>
+    </ingredient>
+    <ingredient>
+      <name>Soy Sauce</name>
+      <notes></notes>
+      <quantity>4.0</quantity>
+      <unit>tbsp</unit>
+      <staple>True</staple>
+    </ingredient>
+    <ingredient>
+      <name>Sesame Seeds</name>
+      <notes></notes>
+      <quantity>2.0</quantity>
+      <unit>tbsp</unit>
+      <staple>False</staple>
+    </ingredient>
+  </ingredients>
+  <instructions>
+    <step>Cook the egg noodles according to the packet instructions. Drain well in a colander once cooked.</step>
+    <step>Warm half the oil in a wok or a large non-stick pan over a high heat, until very hot. Add the spring onions and red pepper slices and cook for a minute, stirring vigorously.</step>
+    <step>Add the beansprouts and drained noodles. Pour in the soy sauce and remaining oil and stirfry for a further 2-3 minutes until everything is heated through. Serve immediately with extra soy sauce and sesame seeds sprinkled on top.</step>
+  </instructions>
+</recipe>

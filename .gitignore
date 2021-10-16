@@ -1,0 +1,4 @@
+/data/api_token.txt
+# Project exclude paths
+/venv/
+/.idea/

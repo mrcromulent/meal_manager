@@ -1,0 +1,6 @@
+todoist-python
+xmlschema
+bs4
+pyqt5
+lxml-to-dict
+lxml
